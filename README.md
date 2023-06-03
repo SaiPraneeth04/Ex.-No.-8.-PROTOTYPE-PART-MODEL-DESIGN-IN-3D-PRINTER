@@ -46,9 +46,9 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-
-### Name:
-### Register Number:
+![MODEL](/mech8.png)
+### Name: Sai Praneeth K
+### Register Number: 212222230067
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
